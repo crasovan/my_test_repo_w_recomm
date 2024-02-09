@@ -1,0 +1,63 @@
+{
+    "formatVersion": "1",
+    "objectRecommendations": [
+        {
+            "tadirObject": "DTEL",
+            "tadirObjName": "BOOLEAN",
+            "objectType": "DTEL",
+            "objectKey": "BOOLEAN",
+            "softwareComponent": "SAP_BASIS",
+            "applicationComponent": "BC-DWB-TOO",
+            "state": "notRecommended",
+            "successorClassification": "oneObject",
+            "successors": [
+                {
+                    "tadirObject": "DTEL",
+                    "tadirObjName": "ABAP_BOOLEAN",
+                    "objectType": "DTEL",
+                    "objectKey": "ABAP_BOOLEAN"
+                }
+            ]
+        },
+        {
+            "tadirObject": "FUGR",
+            "tadirObjName": "SEOQ",
+            "objectType": "FUNC",
+            "objectKey": "SEO_CLASS_CREATE_COMPLETE",
+            "softwareComponent": "SAP_BASIS",
+            "applicationComponent": "BC-DWB-TOO-CLA",
+            "state": "recommended",
+            "successorClassification": "none"            
+        },
+        {
+            "tadirObject": "FUGR",
+            "tadirObjName": "SEOQ",
+            "objectType": "FUNC",
+            "objectKey": "SEO_CLASS_DELETE_COMPLET",
+            "softwareComponent": "SAP_BASIS",
+            "applicationComponent": "BC-DWB-TOO-CLA",
+            "state": "recommended",
+            "successorClassification": "none"            
+        },
+        {
+            "tadirObject": "FUGR",
+            "tadirObjName": "SEOQ",
+            "objectType": "FUNC",
+            "objectKey": "SEO_INTERFACE_CREATE_COMPLETE",
+            "softwareComponent": "SAP_BASIS",
+            "applicationComponent": "BC-DWB-TOO-CLA",
+            "state": "recommended",
+            "successorClassification": "none"    
+        },   
+        {
+            "tadirObject": "FUGR",
+            "tadirObjName": "SEOQ",
+            "objectType": "FUNC",
+            "objectKey": "SEO_INTERFACE_DELETE_COMPLETE",
+            "softwareComponent": "SAP_BASIS",
+            "applicationComponent": "BC-DWB-TOO-CLA",
+            "state": "recommended",
+            "successorClassification": "none"
+        }
+    ]
+}
