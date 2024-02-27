@@ -8,7 +8,7 @@
             "objectKey": "BOOLEAN",
             "softwareComponent": "SAP_BASIS",
             "applicationComponent": "BC-DWB-TOO",
-            "state": "noClassicApi",
+            "state": "noClassicAPI",
             "successorClassification": "oneObject",
             "successors": [
                 {
@@ -26,7 +26,7 @@
             "objectKey": "SEO_CLASS_CREATE_COMPLETE",
             "softwareComponent": "SAP_BASIS",
             "applicationComponent": "BC-DWB-TOO-CLA",
-            "state": "classicApi",
+            "state": "classicAPI",
             "successorClassification": "none"            
         },
         {
@@ -36,7 +36,7 @@
             "objectKey": "SEO_CLASS_DELETE_COMPLETE",
             "softwareComponent": "SAP_BASIS",
             "applicationComponent": "BC-DWB-TOO-CLA",
-            "state": "classicApi",
+            "state": "classicAPI",
             "successorClassification": "none"            
         },
         {
@@ -46,7 +46,7 @@
             "objectKey": "SEO_INTERFACE_CREATE_COMPLETE",
             "softwareComponent": "SAP_BASIS",
             "applicationComponent": "BC-DWB-TOO-CLA",
-            "state": "classicApi",
+            "state": "classicAPI",
             "successorClassification": "none"    
         },   
         {
@@ -56,7 +56,7 @@
             "objectKey": "SEO_INTERFACE_DELETE_COMPLETE",
             "softwareComponent": "SAP_BASIS",
             "applicationComponent": "BC-DWB-TOO-CLA",
-            "state": "classicApi",
+            "state": "classicAPI",
             "successorClassification": "none"
         }
     ]
